@@ -10,12 +10,10 @@
 			Aplicacion del Congreso Metaversos 2011 con Programa de ponencias, twetts, mapa y sponsors.
 		</description>
 
-		<author href="http://www.virtualmind.es" 
-			email="rafael.revenga@virtualmind.es">
+		<author href="http://www.virtualmind.es" email="rafael.revenga@virtualmind.es">
 			Rafael.revenga@virtualmind.es
 		</author> 
 
 		<icon src="icon.png" gap:role="default" />
-		<gap:splash src="images/default.png" />
 		
 </widget>
