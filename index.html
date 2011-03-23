@@ -10,7 +10,7 @@
 	<script type="text/javascript">
 	
 	$(document).bind("mobileinit", function(){
-         $.mobile.defaultTransition = 'none';		 
+        $.mobile.defaultTransition = 'none';		 
 		$.footerheight = $('#test').height();
 	});
 	$(document).ready(function(){
@@ -63,6 +63,7 @@
 				 initialize();
 		});
 		$('#location').live('pageshow',function(){
+				alert($.footerheight);
 				$('#map_wrap').height( $(window).height() - ($.footerheight));
 				$('#map_wrap').width($(window).width() );
 				google.maps.event.trigger(map, 'resize');
