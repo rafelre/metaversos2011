@@ -65,7 +65,6 @@
 				 initialize();
 		});
 		$('#location').live('pageshow',function(){
-				alert($.footerheight);
 				$('#map_wrap').height( $(window).height() - ($.footerheight));
 				$('#map_wrap').width($(window).width() );
 				google.maps.event.trigger(map, 'resize');
