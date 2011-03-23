@@ -1,8 +1,8 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns = "http://www.w3.org/ns/widgets"
 		xmlns:gap = "http://phonegap.com/ns/1.0"
 		id = "com.virtualmind.es"
-		version = "1.0">
+		version = "1.0.0">
 
 		<name>Metaversos 2011</name>
 
@@ -14,6 +14,6 @@
 			Rafael.revenga@virtualmind.es
 		</author> 
 
-		<icon src="icon.png" gap:role="default" />
+		<icon src="icon.png" />
 		
 </widget>
