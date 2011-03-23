@@ -2,7 +2,7 @@
 <widget xmlns = "http://www.w3.org/ns/widgets"
 		xmlns:gap = "http://phonegap.com/ns/1.0"
 		id = "com.virtualmind.rafael"
-		version = "1.0">
+		version = "1.0.0">
 
 		<name>Metaversos 2011</name>
 
@@ -13,8 +13,6 @@
 		<author href="http://www.virtualmind.es" email="rafael.revenga@virtualmind.es">
 			Rafael.revenga@virtualmind.es
 		</author> 
-
-		<icon src="img/icon72.png" width="72" height="72" />
-		<icon src="img/icon48.png" width="48" height="48" />
-		<icon src="img/icon36.png" width="36" height="36" />		
+		
+		<icon src="img/icon72.png" />		
 </widget>
