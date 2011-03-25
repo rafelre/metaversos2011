@@ -17,5 +17,5 @@
 		<icon src="images/icon78.png" width="72" height="72"/>		
 		<icon src="images/icon48.png" width="48" height="48"/>		
 		<icon src="images/icon36.png" width="36" height="36"/>		
-		<gap:splash src="img/default.png" />		
+		<gap:splash src="images/default.png" />		
 </widget>
