@@ -14,8 +14,8 @@
 			Rafael.revenga@virtualmind.es
 		</author> 
 		
-		<icon src="img/icon72.png" width="72px" height="72px"/>		
-		<icon src="img/icon48.png" width="48px" height="48px"/>		
-		<icon src="img/icon36.png" width="36px" height="36px"/>		
+		<icon src="img/icon.png" width="72px" height="72px"/>		
+		<icon src="img/icon.png" width="48px" height="48px"/>		
+		<icon src="img/icon.png" width="36px" height="36px"/>		
 		<gap:splash src="img/default.png" />		
 </widget>
